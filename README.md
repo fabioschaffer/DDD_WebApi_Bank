@@ -1,5 +1,5 @@
 ### Design:
-![](https://whimsical.com/ddd-GTPTihQNcdC84xUBTAP1UZ)
+![alt](https://whimsical.com/ddd-GTPTihQNcdC84xUBTAP1UZ)
 
 ### Referências:
 VAUGHN, Vernon. Domain-Driven Design Destilado. 1ª Edição. Rio de Janeiro: Alta Books, 2024.
